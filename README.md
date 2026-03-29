@@ -213,13 +213,12 @@ Stored locally or in Render container
 
 ⚠️ Note: Render storage is temporary (data may reset)
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 Auto daily report
 Google Drive backup
 Voice input support
 Dashboard UI
 Export to Excel
-👨‍💻 Author
-
+# 👨‍💻 Author
 Teja Farm Ledger System
 Built for simple farm financial tracking using Telegram.
